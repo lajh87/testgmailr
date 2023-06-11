@@ -9,7 +9,6 @@
 library(shiny)
 library(gmailr)
 
-#gm_auth_configure()
 # gm_auth_configure(path  = Sys.getenv("GMAILR_APP"))
 # gm_auth(email = TRUE, cache = ".secret")
 
